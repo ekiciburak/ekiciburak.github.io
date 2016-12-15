@@ -1,0 +1,182 @@
+
+<p>
+I am a post-doctoral research fellow at the <a href="http://www.uiowa.edu/">University of Iowa</a> since February 2016. I am working with 
+<a href="http://homepage.cs.uiowa.edu/~tinelli/">Cesare Tinelli</a>,  
+<a href="https://www.lri.fr/~keller/">Chantal Keller</a> and
+<a href="http://homepage.divms.uiowa.edu/~amebsout/">Alain Mebsout</a> 
+on the <a href="https://github.com/smtcoq/smtcoq">SMTCoq</a>
+support for the 
+<a href="http://cvc4.cs.nyu.edu/web/">CVC4</a> smt solver.
+See the current progress <a href="https://github.com/ekiciburak/smtcoq">here</a>.
+</p> 
+
+<p>I completed my PhD in December 2015 at the <a href="http://edmstii.ujf-grenoble.fr/">EDMSTII</a>, <a href="http://www.ujf-grenoble.fr/">University Joseph Fourier</a> under the supervisions of  <a href="http://ljk.imag.fr/membres/Jean-Guillaume.Dumas/">Jean-Guillaume Dumas</a>, <a href="http://ljk.imag.fr/membres/Dominique.Duval/">Dominique Duval</a> and <a href="http://perso.ens-lyon.fr/damien.pous/">Damien Pous</a>.</p>
+See my previous page <a href="http://ljk.imag.fr/membres/Burak.Ekici/">here</a>.
+
+<h3>
+<a id="contact-info" class="anchor" href="#contact-info" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contact Info</h3>
+
+<p><b>e-mail</b>: <a href="mailto:burak-ekici@uiowa.edu">burak  <i> dash </i> ekici  <i>at </i> uiowa  <i>dot </i> edu </a> <br>
+<b>office</b>: <i> Department of Computer Science<br>
+The University of Iowa<br>
+14 MacLean Hall<br>
+Iowa City, IA 52242, USA </i><br>
+<b>bureau</b>: <i>MLH 201N</i> </p>
+
+<h3>
+<a id="research-topics" class="anchor" href="#research-topics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Research Topics</h3>
+
+<p>Programming language semantics, computational effects, formal proofs, SMT, Coq.</p>
+
+<h3>
+<a id="code" class="anchor" href="#code" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Code</h3>
+
+<p>See my <a href="https://github.com/ekiciburak">github repository</a>.</p>
+
+<h3>
+<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Publications</h3>
+
+<ol>
+<li value="7"> <a href="http://arxiv.org/pdf/1606.05947v1.pdf"> Extending SMTCoq, a Certified Checker for SMT (Extended Abstract). </a>
+<br>
+Burak Ekici, Guy Katz, Chantal Keller, Alain Mebsout, Andrew Reynolds and Cesare Tinelli., <br>
+<i> HaTT 2016: 1st International Workshop on Hammers for Type Theories, Coimbra, Portugal, July 2016. </i>
+
+<br>
+</li>
+
+<li value="6"> <a href="https://hal.archives-ouvertes.fr/hal-01121924"> Hilbert-Post completeness for the state and the exception effects. </a> <br>
+  Jean-Guillaume Dumas, Dominique Duval, Burak Ekici, Damien Pous and Jean-Claude Reynaud., <br>
+  <i>MACIS 2015 : Sixth International Conference on Mathematical Aspects of Computer and Information Sciences,
+  Berlin, Germany, 11--13 November 2015. </i>
+  </li>
+  
+<li value="5"> <a href="https://github.com/ekiciburak/ekiciburak.github.io/blob/master/TFP2015_submission_6.pdf">  IMP with exceptions over decorated logic. </a> <br>
+  Burak Ekici. (presented at TFP 2015)  
+<br>
+</li>
+
+<li value="4"> <a href="http://hal.archives-ouvertes.fr/hal-00867237">Certified proofs in programs involving exceptions. </a> [<a href="http://hal.archives-ouvertes.fr/docs/00/95/87/84/PDF/ProofExceptions.pdf">.pdf</a>  | <a href="./proofsexc.bib">BibTeX</a>]<br>
+  Jean-Guillaume Dumas, Dominique Duval, Burak Ekici and Jean-Claude Reynaud., <br><i>CICM 2014 : Eigth Conference on Intelligent Computer Mathematics, Coimbra, Portugal, 7--11 July 2014, CEUR Workshop Proceedings, no 1186, paper 20.  </i>
+  </li>
+<li value="3">
+<a href="http://hal.archives-ouvertes.fr/hal-00869230">Formal verification in Coq of program properties involving the global state effect.</a> [<a href="http://hal.archives-ouvertes.fr/docs/00/87/23/24/PDF/DDEP-coqstates.pdf">.pdf</a> | <a href="./coqstates.bib">BibTeX</a>]<br>
+  Jean-Guillaume Dumas, Dominique Duval, Burak Ekici and Damien Pous., <br> <i>JFLA 2014 : Journées Francophones des Langages Applicatifs, Fréjus, France, 8--11 January 2014. </i>
+  </li>
+<li value="2">
+<a href="http://cnprogramming.com/">Implementation of Search Strategies in Control Network Programming.</a> [<a href="http://ljk.imag.fr/membres/Burak.Ekici/INISTA10/inista2010_paper.pdf">.pdf</a>]<br>
+   K. Kratchanov, E. Golemanova, T. Golemanov, T. Ercan, B. Ekici., <br><i>Procedural and Non-Procedural In: Proc. Intl. Symposium in Innovations in Intelligent Systems <br> and Applications (INISTA 2010), June 2010, Kayseri, Turkey, 386-390.</i>
+  </li>
+<li value="1"> <a href="/.pdf">Implementations of Category Theory in Computer Science.</a> <br>
+   Ekici B., Yucel C., Kilinc G., Koltuksuz A., <br><i> 9th National Mathematics Symposium, Karadeniz Technical University, October 2010 (In Turkish).</i>
+</li>
+</ol>
+
+<p>    <b>PhD thesis</b></p>
+
+<ul>
+  <li> Certification de programmes avec des effets calculatoires [<a href="https://tel.archives-ouvertes.fr/tel-01250842/document">manuscript</a>]
+[<a href="http://ljk.imag.fr/membres/Burak.Ekici/PHDTHESIS/ekici_defense_slides.pdf">slides</a>]
+</li>
+</ul>
+
+<!-- 
+<p>    <b>Master's thesis</b></p>
+
+<ul>
+  <li> A parallelization approach to Haskell language through category theoretic implementations [<a href="http://ljk.imag.fr/membres/Burak.Ekici/MASTERSTHESIS/BurakEkici_Masters.pdf">manuscript</a>]
+</li>
+</ul>
+--> 
+
+<h3>
+<a id="recent-talks" class="anchor" href="#recent-talks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Recent Talks</h3>
+
+<ol>
+<li value="10"> <a href="http://www.fmf.uni-lj.si/si/obvestila/35243/">Relative Hilbert-Post completeness for exceptions.</a> <i> Foundations Seminar, University of Ljubljana - Slovenia.</i><br>
+
+</li>
+<li value="9">
+<a href="http://www.tifp.org/">IMP with exceptions over decorated logic.</a> <i> TFP'15, Sophia-Antipolis - France.</i> [slides]<br>
+</li>
+<li value="8"> A small talk in <a href="http://www-ljk.imag.fr/Seminars/1415889734530_en.html">Casys/Meff Seminars</a> [<a href="http://www-ljk.imag.fr/Seminars/1415889734530/Ekici_casys-meff.pdf">slides</a>]
+</li>
+<li value="7">
+<a href="http://www.lifl.fr/jncf2014/edt.html">Program certification with computational effects.</a> <i> JNCF'14, Marseille - France.</i> [<a href="http://www.lifl.fr/jncf2014/files/slides/ekici.pdf">slides</a> | <a href="http://www.lifl.fr/jncf2014/files/abstracts/ekici.pdf">extended abstract</a>]<br>
+ </li>
+<li value="6"> <a href="http://cicm-conference.org/2014/cicm.php?event=&amp;menu=talks">Certification of programs with computational effects.  </a> <i> CICM'14, Coimbra - Portugal.</i> [<a href="http://ljk.imag.fr/membres/Burak.Ekici/CICM14/BurakEkici_presentation.pdf">slides</a> | <a href="http://ljk.imag.fr/membres/Burak.Ekici/CICM14/BurakEkici_extended%20abstract.pdf">extended abstract</a>]<br>
+ </li>
+<li value="5">
+<a href="./BurakEkici_IMP_EXC.pdf">{IMP + Exc} over Decorated Logic.</a> <i>LJK, Grenoble - France.</i>
+  </li>
+<li value="4">
+<a href="http://jfla.inria.fr/2014/programme.html">Formal verification in Coq of program properties involving the global state effect.</a> <i>JFLA'2014, Fréjus - France. </i>[<a href="http://jfla.inria.fr/2014/ekici.pdf">slides</a>]
+  </li>
+<li value="3">
+<a href="http://www-ljk.imag.fr/Seminars/1385640971997.html">Formal verification in Coq of program properties involving the global state effect.</a> <br> 
+    <i>Séminaires LJK-Modèles et Algorithmes Déterministes: BIPOP-CASYS, Grenoble - France. </i>[<a href="http://ljk.imag.fr/membres/Burak.Ekici/BurakEkici_LJK-Seminar.pdf">slides</a>]<br>
+  </li>
+<li value="2">
+<a href="http://ljk.imag.fr/membres/Burak.Ekici/BurakEkici_ExpLJK.pdf">Proofs About Programs Involving Computational Effects.</a> <i>Exposé au LJK, Grenoble - France.</i> 
+ </li>
+<li value="1">
+<a href="http://ejcp2013.inria.fr/program2013.htm">Certification of Programs with Computational Effects.</a> <i>EJCP 2013, Dinard - France. </i> [<a href="http://ejcp2013.inria.fr/files/student_presentations/Burak.Ekici.pdf">slides</a>] 
+</li>
+</ol>
+
+<h3>
+<a id="misc" class="anchor" href="#misc" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Misc.</h3>
+
+<p>    <b>Upcoming events:</b></p>
+
+<ul>
+<li>
+tba
+</li>
+</ul> 
+
+<p>    <b>Some past events:</b></p>
+<ol>
+<li value="10"> 
+<a href="http://hatt2016.inria.fr/">
+HaTT 2016: 1st International Workshop on Hammers for Type Theories,</a> 
+at <a href="http://www.uc.pt/en"> University of Coimbra</a>, Comibra, Portugal, 1 July 2016.
+</li>
+<li value="9"> My thesis defense. Find all related details <a href="http://www-ljk.imag.fr/Seminars/1448876258625.html">here</a>.
+</li>
+<li value="8"> <a href="http://macis2015.zib.de/">
+MACIS 2015 : Sixth International Conference on Mathematical Aspects of Computer and Information Sciences </a> 
+at <a href="http://www.zib.de/"> Zuse Institute</a>, Berlin, Germany, 11--13 November 2015.
+</li>
+<li value="7">
+<a href="http://www.tifp.org/"> Sixteenth Symposium on Trends in Functional Programming (TFP 2015) </a> in Sophia-Antipolis, France, 03--05 June 2015. </li> 
+<li value="6">
+<a href="http://interactions15.sciencesconf.org/"> Colloque Inter'Actions 2015 en Mathématiques</a> in Grenoble, France, 26--29 May 2015. </li> 
+<li value="5">
+<a href="http://www.lifl.fr/jncf2014/">Journées Nationales de Calcul Formel (JNCF) 2014 </a>  at <a href="http://www.cirm-math.fr/?lang=fr"> CIRM, Marseille</a>, 3--7 November 2014.</li> 
+<li value="4">
+<a href="http://cicm-conference.org/2014/cicm.php%20">Conferences on Intelligent Computer Mathematics</a> at <a href="http://www.uc.pt/en">University of Coimbra</a>, 7--11 July 2014. </li>
+<li value="3">Phd school on <a href="http://homotopytypetheory.org/">HoTT</a>, programming language semantics and Coq: <br> <a href="https://ihp2014.pps.univ-paris-diderot.fr/doku.php?id=cirm"> Semantics of proofs and certified mathematics</a> by
+ <a href="http://www.ihp.fr/">Institut Henri Poincaré</a> at <a href="http://www.cirm-math.fr/?lang=fr">CIRM, Marseille</a>, 7--18 April 2014. </li> 
+<li value="2">
+<a href="http://jfla.inria.fr/2014/%20">JFLA: Journées Francophones des Langages Applicatifs</a> at <a href="http://www.caes.cnrs.fr/vacances/nos-villages/la-villa-clythia">La-villa-clythia, Fréjus</a>, 7--11 Januray 2014. </li>
+<li value="1">Phd school on programming languages: <a href="http://ejcp2013.inria.fr/home.htm">École Jeunes Chercheurs en Programmation</a> <br> at <a href="http://www.inria.fr/centre/rennes">Inria, Rennes</a>, 23--31 May 2013. </li> 
+</ol> 
+
+<p>    <b>Curriculum Vitæ:</b></p>
+
+<ul> 
+<li> CV as of December 2015:  [<a href="http://ljk.imag.fr/membres/Burak.Ekici/CV15/ekici_cv.pdf">.pdf</a>]</li>
+</ul> 
+
+<p><br>
+<br>
+ <i><b>Last update:</b></i> September 2016. 
+<br>
+
+ </p>
+
+
+    
+  </body>
+</html>

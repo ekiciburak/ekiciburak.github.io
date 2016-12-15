@@ -244,3 +244,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+title: Burak Ekici
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
