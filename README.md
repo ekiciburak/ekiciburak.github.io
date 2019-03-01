@@ -1,1 +1,0 @@
-# ekiciburak.github.io
